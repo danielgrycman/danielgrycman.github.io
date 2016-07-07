@@ -1,0 +1,35 @@
+= Review "Programmieren lernen mit Java"
+Daniel Grycman <danielgrycman@icloud.com>
+:icons: font
+
+NOTE: I review books in the language they are written in.
+
+[.lead]
+Das Buch "Programmieren lernen mit Java" von Hans-Peter Habelitz wendet sich an absolute Programmierneulinge und verspricht den Leser Schritt für Schritt zum ersten Java-Programm zu führen.
+
+Die vierte und aktualisierte Auflage ist in 14 Kapitel und einen Anhang aufgeteilt. Mit den Ausblicken am Ende eines jeden Kapitels soll ein Eindruck auf die nachfolgenden Kapitel oder weitere Vertiefungen vermittelt werden. An den Anfang stellt der Autor eine Einführung in die Programmierung und Java. Ebenso wird auch eine Einführung in die Entwicklungsumgebung Eclipse gegeben. Nachfolgend geht Habelitz in drei Kapiteln auf Klassen und Objekte ein. Da das Ziel des Buches ein Java-Programm ist, widmet sich der Autor den grafischen Benutzeroberflächen anhand von Swing unter Zuhilfenahme des WindowBuilder. In den letzen sechs Kapitel werden Themen wie Fehlerbehandlung, Containerklassen, Dateien, Zeichnen, Threads und Datenbanken behandelt. Im Anhang geht der Autor noch auf den Inhalt der beigelegten DVD ein. Auf der DVD befindet sich neben der Arbeitsumgebung und entsprechemden Quellcode auch eine Online-Version des Standardwerks "Java ist auch eine Insel". Auch sind Musterlösungen der jeweiligen Aufgaben der einzelnen Kapitel dort zu finden.
+Wer sich als Programmierneuling mit der Programmiersprache Java auseinandersetzen möchte, findet mit diesem Buch einen sehr guten Begleiter zu einem moderaten Preis.
+
+[sidebar]
+[.text-right]
+****
+[cols="2*"]
+|===
+.7+^.^| pass:[<a rel="nofollow" href="http://www.amazon.de/gp/product/3836241307/ref=as_li_tl?ie=UTF8&camp=1638&creative=6742&creativeASIN=3836241307&linkCode=as2&tag=danigryc-21"><img border="0" src="http://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=3836241307&Format=_SL160_&ID=AsinImage&MarketPlace=DE&ServiceVersion=20070822&WS=1&tag=danigryc-21" ></a><img src="http://ir-de.amazon-adsystem.com/e/ir?t=danigryc-21&l=as2&o=3&a=3836241307" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+]
+| *Autoren:* Hans-Peter Habelitz
+
+| *Titel:* Programmieren lernen mit Java
+
+| *Auflage:* 4. Auflage 2016
+
+| *Verlag:* Rheinwerk Verlag
+
+| *Umfang:* 537 Seiten
+
+| *Preis:* 19,90 Euro
+
+| *ISBN:* 978-3-8362-4130-4
+
+|===
+****

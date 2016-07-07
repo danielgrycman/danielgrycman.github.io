@@ -1,0 +1,43 @@
+= Review "Vaadin - Der kompakte Einstieg für Java-Entwickler"
+Daniel Grycman <danielgrycman@icloud.com>
+:icons: font
+
+NOTE: I review books in the language they are written in.
+
+[.lead]
+Dieses Buch ist das erste Einsteigerwerk in deutscher Sprache, das sich dem Versionsstand 7 des Vaadin Framework widmet.
+
+Dabei ist kein umfassendes Nachschlagewerk entstanden, dessen sich die Autoren aber bewusst sind und entsprechend in ihrem Vorwort auf das englischsprachige Book of Vaadin als Referenzwerk verweisen. +
+Die Kapitelaufteilung verfolgt keinen konsequenten Aufbau. Aus diesem Grund ist es dem Leser möglich, die einzelnen Kapitel getrennt von einander zu lesen ohne einen roten Faden zu vermissen. Am Anfang gehen die Autoren den Fragen nach, was Vaadin genau ist, wie es funktioniert und wie die entsprechende Vaadin-Architektur aussieht. Es folgt ein Kapitel mit jeweils einer kurzen Beschreibung verschiedener UI-Komponenten, wobei folgende Struktur verwendet wird: Bezeihnung, Funktion und Einsatz der Komponente im Quelltext.
+Die nachfolgenden Kapitel fünf bis acht gehen auf die Punkte Data Binding, Server Push, Layout und Styling mit CSS/Sass und Navigation ein. Für alle Beschreibungsteile gilt das Credo des Untertitels. Alle Inhalte werden dem Leser in kompakter Form präsentiert. +
+In Kapitel neun, welches sich mit Architektur- und Entwurfsmusterkonzepten im Bezug auf Vaadin auseinandersetzt, kommt es zu einem Bruch der bisherigen Kapitelstruktur. Es wird eine Beispielanwendung geboten, an der die einzelnen Konzepte dargestellt werden. Die Autoren erläutern dabei die konkrete Implementierung anhand der beiden Architekturmuster Model-View-Presenter (MVP) und Model-View-ViewModel (MVVM), wobei sie bei MVP noch eine Unterteilung nach den Varianten Passive View und Supervising Controller vornehmen. Des Weiteren wird noch auf weitere Entkopplungs- und Kapselungsmöglichkeiten durch Event-Bus und CDI eingegangen. An diesem Kapitel bemerkt der geneigte Leser wie sehr es den Autoren auf den Praxiseinsatz des Vaadin-Frameworks ankommt. +
+Die letzten Kapitel befassen sich den Themen Add-ons, Buildmanagement mit Maven und automatisiertes Testen. Hier wird, wie schon in den Kapiteln vier bis acht, ein fundiertes Basiswissen vermittelt. +
+Zusammenfassend ermöglichen die Autoren hier einen Einstieg, der bezüglich des Umfangs zwar relativ schmal erscheint, aber auf knappem Raum viele Informationen bietet. +
+Verbesserungsvorschläge für eine aktualisierte zweite Auflage wären zum einen die Platzierung des Maven-Kapitels vor dem Architektur-Kapitel, da Vorwissen über die Verwendung von Maven benötigt wird, und zum anderen eine tiefere Darstellung der Datenbankanbindung. +
+Wer zum Erlernen einer neuen Technologie eine „durchgestylte“ Beispielanwendung benötigt, sollte dieses Buch nicht unbedingt lesen. Wer bereit ist, abseits eines vorgegebenen Weges mitzudenken, wird mit diesem Buch seine Freude haben.
+
+[sidebar]
+[.text-right]
+****
+[cols="2*"]
+|===
+.7+^.^| pass:[<a rel="nofollow" href="http://www.amazon.de/gp/product/3864902061/ref=as_li_tl?ie=UTF8&camp=1638&creative=6742&creativeASIN=3864902061&linkCode=as2&tag=danigryc-21"><img border="0" src="http://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=3864902061&Format=_SL160_&ID=AsinImage&MarketPlace=DE&ServiceVersion=20070822&WS=1&tag=danigryc-21" ></a><img src="http://ir-de.amazon-adsystem.com/e/ir?t=danigryc-21&l=as2&o=3&a=3864902061" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />]
+| *Autoren:* Joachim Baumann, Daniel Arndt, Frank Engelen, Frank Hardy, Carsten Mjartan
+
+| *Titel:* Vaadin – Der kompakte Einstieg für Java-Entwickler
+
+| *Auflage:* 1. Auflage 2015
+
+| *Verlag:* dpunkt.verlag Heidelberg
+
+| *Umfang:* 280 Seiten
+
+| *Preis:* 34,90 Euro, _eBook (downloadbar) nicht im Preis enthalten_
+
+| *ISBN:* 978-3-86490-206-2
+
+|===
+****
+
+[.text-center]
+_Diese Rezension wurde ebenfalls im Magazin Java Aktuell Ausgabe 03/2015 veröffentlicht._

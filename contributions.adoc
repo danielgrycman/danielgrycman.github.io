@@ -1,0 +1,16 @@
+---
+layout: page
+permalink: /contributions/
+---
+= Contributions
+:icons: font
+
+== MeetUps and Usergroups
+
+* member of the organisation team of JUG Essen
+* local organiser of Docker Meetup Bochum
+
+
+== Github Projects
+
+* http://github.com/danielgrycman/publisher[Fork of speedata publisher]

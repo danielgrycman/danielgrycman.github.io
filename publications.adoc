@@ -1,0 +1,20 @@
+---
+layout: page
+permalink: /publications/
+---
+= Publications
+:icons: font
+
+== Reviews
+* Künneth, Thomas: Einstieg in Eclipse. Bonn: Rheinwerk Verlag 2014. In: Java aktuell, Ausgabe 02-2015
+* Baumann, Joachim: Vaadin - Der kompakte Einstieg für Java-Entwickler. Heidelberg: dpunkt Verlag 2015. In: Java aktuell, Ausgabe 03-2015 link:pdfs/03-2015-Java-aktuell.pdf[icon:file-pdf-o[]]
+* Uwe Vigenschow, unter Mitarbeit von Andrea Grass, Alexandra Augstin und Michael Hoffmann: APM - Agiles Projektmanagement. Heidelberg: dpunkt Verlag 2015. In: Java aktuell, Ausgabe 04-2015 link:pdfs/04-2015-Java-aktuell.pdf[icon:file-pdf-o[]]
+* Martin Geirhos: Entwurfsmuster - Das umfassende Handbuch. Bonn: Rheinwerk Verlag 2015. In: Java aktuell, Ausgabe 01-2016 link:pdfs/01-2016-Java-aktuell.pdf[icon:file-pdf-o[]]
+* Florian Hopf: Elasticsearch - Ein praktischer Einstieg. Heidelberg: dpunkt Verlag 2016. In: Java aktuell, Ausgabe 02-2016 (to be published)
+
+== Technical Reviewer
+* Stocker, Vicent Lee: Science Teaching with Moodle 2.0. Birmingham: Packt Publishing 2011.
+
+== Talks
+* CommitterConf 2015, Einführung in asciidoctor (Introductory)
+* JavaLand 2016, Agile Documentation (Mentor Andres Almiray) pass:[<iframe src="http://de.slideshare.net/danielgrycman/slideshelf" width="615px" height="470px" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:none;" allowfullscreen webkitallowfullscreen mozallowfullscreen></iframe>]

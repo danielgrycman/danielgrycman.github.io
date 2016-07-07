@@ -1,0 +1,98 @@
+---
+layout: page
+permalink: /about/
+---
+= About
+
+== Experiences
+
+****************************************************************************
+*May 2014 - October 2016 +
+Ferdinand Bilstein GmbH + Co. KG / Central Service Solutions, Ennepetal* +
+_Software Developer & Consultant +
+Concept and implementation of Dynamic Publishing / fully automated generation of PDF catalogues, development and concept of Information Supply Chain Management (ISCM), concept and implementation of Application Lifecycle Management (ALM) using Atlassian Stack (Jira, Confluence, Bitbucket Server and Bamboo), concept and implementation of Infrastructure As Code (Docker, Ansible and Vagrant)_
+****************************************************************************
+&nbsp;
+****************************************************************************
+*August 2013 - April 2014 +
+Ferdinand Bilstein GmbH + Co. KG / Central Service Solutions, Ennepetal* +
+_Software Developer +
+Concept and implementation of Dynamic Publishing / fully automated generation of PDF catalogues_
+****************************************************************************
+&nbsp;
+****************************************************************************
+*March 2012 - July 2013 +
+WERK II Medien- und Informationsgesellschaft mbH, Duisburg* +
+_Consultant +
+Project management priint:comet and priint:cometTeX_
+****************************************************************************
+&nbsp;
+****************************************************************************
+*March 2011 - June 2012 +
+WERK II Medien- und Informationsgesellschaft mbH, Duisburg* +
+_Developer +
+Development priint:comet and priint:cometTeX_
+****************************************************************************
+&nbsp;
+****************************************************************************
+*December 2010 - March 2012 +
+cuttingedges, Bochum* +
+_Consulting Director +
+Consulting and project management_
+****************************************************************************
+&nbsp;
+****************************************************************************
+*April 2009 - March 2011 +
+Department of German Studies, Ruhr-University Bochum* +
+_Technical Assistent +
+Technical backend, application development, improvement of business processes, technical consulting and development of eLearning concepts_
+****************************************************************************
+&nbsp;
+****************************************************************************
+*March 2009 +
+Department of Romance Studies, Ruhr-University Bochum* +
+_Developer +
+Web developement_
+****************************************************************************
+&nbsp;
+****************************************************************************
+*October 2007 - March 2010 +
+Electives area of Ruhr-University Bochum* +
+_Lecturer +
+teaching courses "Scientific working with Word und PowerPoint" and "Scientific working with LaTeX"_
+****************************************************************************
+&nbsp;
+****************************************************************************
+*May 2006 - February 2009 +
+Department of German Studies, Ruhr-University Bochum* +
+_System Administrator +
+System administration, technical consulting for using VSPL, application and web development_
+****************************************************************************
+&nbsp;
+****************************************************************************
+*May 2003 - September 2005 +
+AStA of Ruhr-Universit&auml;t Bochum* +
+_Student commitees consultant und spokeman of the students parliamentary group at university senate_
+****************************************************************************
+&nbsp;
+****************************************************************************
+*January 2003 - April 2006 +
+Department of German Studies, Ruhr-University Bochum* +
+_Student assistant +
+System administration / computing officer / Implementing of VSPL (program to administrate student credits) for the department / Implementing a podcasting system_
+****************************************************************************
+&nbsp;
+****************************************************************************
+*July 2002 - October 2003 +
+Faculty of Electrical Engineering and Information Technology, Ruhr-University Bochum, Dr.-Ing. J&ouml;rg Albrecht* +
+_Student assistant +
+Management and execution of "Sch&uuml;lerinnen-Projektwoche in den Ingenieurwissenschaften" (further informations: http://www.rub.de/spw)_
+****************************************************************************
+&nbsp;
+****************************************************************************
+*October 2001 - December 2002 +
+Prof. Dr. Fluck, Department of German Studies, Ruhr-University Bochum* +
+_Student assistant +
+PC administration / development and implementation of the redesign of a student online magazine (http://web.archive.org/web/20070905212343/http://punktde.ruhr-uni-bochum.de/index_flash.html)_
+****************************************************************************
+&nbsp;

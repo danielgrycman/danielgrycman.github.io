@@ -1,0 +1,40 @@
+= Review "Entwurfsmuster - Das umfassende Handbuch"
+Daniel Grycman <danielgrycman@icloud.com>
+:icons: font
+
+NOTE: I review books in the language they are written in.
+
+[.lead]
+Dieses Buch widmet sich auf 643 Seiten dem sehr theorielastigem Thema der Informationstechnologie. Diese Rezension beschreibt, ob dem Autor der Wechsel zwischen Theorie und Praxisbezug gelingt.
+
+Vorab eine persönliche Anmerkung, in der gesamten Resenzion verwende ich grundsätzlich die englische Bezeichnung des jeweiligen Musters. +
+Der Autor Martin Geirhos ist mir das erste Mal beim Lesen des Buches "IT-Projekt-Management" aufgefallen, in dem er sich auf eine sehr lockere Art und Weise mit der Theorie des IT-Projektmanagements beschäftigt. Entsprechend hatte ich auch gewisse Erwartungen an das Werk des Autors. +
+Das Buch gliedert sich in 8 Kapitel. Die Muster in Kapiteln zwei bis sieben werden mittels einer kurzen Erklärung erläutert, danach folgt ein kleiner Steckbrief mit dem deutschen und englischen Namen. Im Anschluss daran liefert der Autor ein UML Diagramm über das jeweilige Muster. Nun folgt eine ausführliche Erklärung des Musters und entsprechender Anwendungsfälle, die durch Java das Muster veranschaulichen. Mögliche Alternativen und weitere Überlegungen werden danach erläutert. +
+Das erste Kapitel stellt eine Einführung in das Thema Entwurfsmuster dar und ebenso wird auch die Gang of Four vorgestellt. Martin Geirhos stellt auch direkt dar, dass nicht alle vorgestellten Muster von der Gang of Four stammen. Im zweiten Kapitel präsentiert er den Erzeugungsmustern (Factory, Singleton, Multiton, Abstract Factory, Builder und Prototype). Das dritte Kapitel beschäftigt sich mit Strukturmustern (Adapter, Bridge, Composite, Decorator, Facade, Flyweight und Proxy). Den Verhaltensmustern ist das vierte Kapitel geschuldet. In den Unterkapiteln beschäftigt sich der Autor dort mit Chain of Responsibility, Command, Interceptor, Interpreter, Iterator, Mediator, Memento, Observer, State, Strategy, Template Method und Visitor. Dies ist auch das längste Kapitel des Buchs mit insgesamt 163 Seiten. Im nächsten Kapitel beschäftigt sich der Autor mit Mustern im Zusammenhang von verteilten Architekturen. Neben den acht Irrtümern von Distributed Computing werden auch SOA, Event Sourcing und Command Query Responsibility Segregation (CQRS) erläutert. Das sechste Kapitel setzt sich mit Mustern beim Umgang mit Daten innerhalb einer Anwendung auseinander. Martin Geirhos greift hier die folgenden Muster auf; Unit of Work, Transaktions, Data Transfer Objects, Table Data Gateway, Row Data Gateway, Identity Map / Function, Optimistic Locking, Pessimistic Locking und Inheritance. Im vorletzten Kapitel werden noch die drei bekanntesten Muster für GUIs (Model View Controller, Model View Presenter und Model View ViewModel) erläutert. Den Abschluss bildet das Kapitel zu Design- und Entwicklungsprinzipien. Zu Anfang beschäftigt sich der Autor mit Merkmalen schlechten Designs, dem SOLID-Prinzip und dem agilen Manifest. Ebenso werden konkrete Designprinzipien, wie KISS und DRY, und Design Smells erläutert. +
+Ingesamt handelt es sich um ein sehr gelungenes Buch. Dem Autor Martin Geirhos gelingt es mit Leichtigkeit Theorie und Praxisbezug zu verknüpfen. Jeder Softwareentwickler sollte, wenn nicht schon das GoF-Buch vorhanden ist, ein Exemplar auf seinem Schreibtisch haben. Es eignet sich nicht nur für Programmieranfänger zur Vertiefung und Festigung von Wissen, sondern auch für Praktiker als Nachschlagwerk.
+
+[sidebar]
+[.text-right]
+****
+[cols="2*"]
+|===
+.7+^.^| pass:[<a rel="nofollow" href="http://www.amazon.de/gp/product/3836227622/ref=as_li_tl?ie=UTF8&camp=1638&creative=6742&creativeASIN=3836227622&linkCode=as2&tag=danigryc-21"><img border="0" src="http://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=3836227622&Format=_SL160_&ID=AsinImage&MarketPlace=DE&ServiceVersion=20070822&WS=1&tag=danigryc-21" ></a><img src="http://ir-de.amazon-adsystem.com/e/ir?t=danigryc-21&l=as2&o=3&a=3836227622" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />]
+| *Autor:*  Martin Geirhos
+
+| *Titel:*  Entwurfsmuster - Das umfassende Handbuch
+
+| *Auflage:*  1. Auflage 2015
+
+| *Verlag:*  Rheinwerk Verlag
+
+| *Umfang:*  643 Seiten
+
+| *Preis:*  39,90 Euro, _eBook (downloadbar) nicht im Preis enthalten_
+
+| *ISBN:* 978-3-8362-2762-9
+
+|===
+****
+
+[.text-center]
+_Diese Rezension wird ebenfalls im Magazin Java Aktuell Ausgabe 01/2016 veröffentlicht._

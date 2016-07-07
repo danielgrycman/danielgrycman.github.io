@@ -1,0 +1,43 @@
+= Review "Einstieg in Eclipse - Die Werkzeuge für Java-Entwickler (Aktuell zu Luna und Java 8)"
+Daniel Grycman <danielgrycman@icloud.com>
+:icons: font
+
+NOTE: I review books in the language they are written in.
+
+[.lead]
+„Effiziente Java-Entwicklung mit Eclipse“ verspricht der Autor, Thomas Künneth auf der Buchrückseite.
+
+Das Buch richtet sich an Eclipse-Einsteiger, setzt Java-Kenntnisse voraus, die auch notwendig sind. Der Fokus liegt dabei auf dem Handling von Eclipse und nicht wirklich auf dem Ansatz einer effizienten Entwicklung von Anwendungen mit Eclipse. +
+Positiv bleibt aber anzumerken, dass Thomas Künneth viel Erfahrung im Bereich von Eclipse besitzt. +
+Auf dem Buchcover rühmt sich das Buch „aktuell zu Luna und Java 8“ zu sein, was dem Autor aber nur im Bezug auf die Aktualisierung der Abbildung und im Unterkapitel „Ein neuer Look“ einigermaßen gelingt. Leider lässt der Autor jeglichen Hinweis über die Möglichkeiten des Java Eclipse Compilers im Hinblick auf Lambdas und sonstiger Erweiterungen vollkommen aus. +
+Gerade hier hätte der Autor anhand entsprechender Codebeispiele eine effiziente Entwicklung mit Java aufzeigen können. Ebenso ist nicht nachvollziehbar, dass gerade mit dem Zusatz „Java 8“ die Erstellung einer grafischen Benutzeroberfläche dem Leser anhand von Swing nahe gebracht wird. Ein Einstieg in JavaFX wäre an dieser Stelle logischer gewesen. +
+Beim zweiten Teil „Fortgeschrittenen Techniken“ wurde leider auch auf eine kurze Einführung von Maven im Zusammenhang mit Eclipse komplett verzichtet, was sich gerade im Hinblick auf die Verwendung von Ant im letzten Kapitel des ersten Teils angeboten hätte.
+Beim Lesen bekommt man leider fortlaufend den Eindruck, dass es sich bei dieser fünften, aktualisierten Auflage um eine sehr schnelle und in Teilen sehr unsaubere Überarbeitung handelt. +
+Im Buch finden sich vermeidbare Tippfehler, z.B. ALAX statt AJAX im Inhaltsverzeichnis und der entsprechenden Kapitelüberschrift. +
+Das Buch ist lediglich für wirkliche Einsteiger in die Entwicklungsumgebung Eclipse empfehlenswert, aber auch nur um einen Überblick über die Bedienung der IDE zu erhalten. Wirkliche Neuerungen im Hinblick auf Java 8 und Luna spart der Autor im Großen und Ganzen aus, so dass der geneigte Leser auf andere Literatur zu jeweiligen Themenbereichen zurückgreifen muss.
+
+[sidebar]
+[.text-right]
+****
+[cols="2*"]
+|===
+.7+^.^| pass:[<a rel="nofollow" href="http://www.amazon.de/gp/product/3836229587/ref=as_li_tl?ie=UTF8&camp=1638&creative=6742&creativeASIN=3836229587&linkCode=as2&tag=danigryc-21"><img border="0" src="http://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=3836229587&Format=_SL160_&ID=AsinImage&MarketPlace=DE&ServiceVersion=20070822&WS=1&tag=danigryc-21" ></a><img src="http://ir-de.amazon-adsystem.com/e/ir?t=danigryc-21&l=as2&o=3&a=3836229587" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />]
+| *Autor:* Thomas Künneth
+
+| *Titel:* Einstieg in Eclipse – Die Werkzeuge für Java-Entwickler
+
+| *Auflage:* 5., aktualisierte Auflage 2014
+
+| *Verlag:* Rheinwerk Verlag Bonn
+
+| *Umfang:* 400 Seiten
+
+| *Preis:* 39,90 Euro, _eBook (downloadbar) im Preis enthalten_
+
+| *ISBN:* 978-3-8362-2958-6
+
+|===
+****
+
+[.text-center]
+_Diese Rezension wurde ebenfalls im Magazin Java Aktuell Ausgabe 02/2015 veröffentlicht._

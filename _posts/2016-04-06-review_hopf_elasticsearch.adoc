@@ -1,0 +1,42 @@
+= Review "Elasticsearch - Ein praktischer Einstieg"
+Daniel Grycman <danielgrycman@icloud.com>
+:icons: font
+
+NOTE: I review books in the language they are written in.
+
+[.lead]
+Auf dem Buchrücken versprechen der Autor Florian Hopf und der dpunkt Verlag, dass der Leser das nötige Rüstzeug besitzt, um eigene Anwendungen auf Basis von Elasticsearch. Ich möchte mit dieser Rezension beleuchten, ob es dem Autor auch wirklich gelungen ist.
+
+Das Buch ist in 12 Kapitel aufgeteilt. Den Abschluß bilden zwei Anhänge, das Literaturverzeichnis und der Index. Gleich zu Beginn geht Florian Hopf auf die Geschichte von Elasticsearch ein, wobei er einen Bezug zu Luence und Solr schafft. Obgleich er auch eine Abgrenzung zu Solr vornimmt.
+
+Die ersten vier Kapitel führen in die grundlegende Konzepte und Basics von Elasticsearch und Lucene ein, ebenso vertieft der Autor den Umgang mit Texten und Relevanzberechnung. Es folgt ein Kapitel zur Indizierung von verschiedenen Datenquellen. Das sechste Kapitel beschäftigt sich mit allen Aspekten der Verteilung von Daten. Die zwei folgenden Kapitel gehen auf die Modellierung und Aggregation von Daten ein. Im neunten Kapitel wird der Zugriff auf Elasticsearch mittels Java und JavaScript beschrieben. "Elasticsearch in Produktion" ist das Thema des zehnten Kapitels, wobei Hopf nicht nur die Intriebnahme erläutert, sondern auch Themen wie Monitoring und Datensicherung Platz gibt. Das vorletzte Kapitel widmet sich der Speicherung von Loggingdateien, wozu Elasticsearch, als Teil des ELK-Stacks, benutzt werden. Zusätzlich wird Graylog als Alternative präsentiert. Das zwölfte und zugleich letzte Kapitel versucht einen Ausblick in die Zukunft von Elasticsearch und stellt in aller Kürze einige Themen vor, auf die im Buch nicht eingegangen wird.
+Das Expertenwissen von Florian Hopf zu den Themen Apache Solr, Lucene und Elasticsearch merkt der Leser dem Werk an. Es ist ein Buch für Praktiker aus der Sicht eines Praktikers. Es finden sich viele Beispiele, die zum direkten Ausprobieren einladen. Das Buch basiert auf der Version 1.6 von Elasticsearch, was für dieses Einsteigerwerk kein Problem darstellt, da in den neueren Versionen Funktionen aus der Version 1.6 erhalten geblieben sind.
+
+Wer nun auf der Suche nach einem deutschsprachigen Einsteigerbuch für Elasticsearch ist, sollte dieses lesen, da sich sehr angenehm lesen lässt und durch die vielen Beispiele einen hohen praktischen Anteil besitzt. Mit Hilfe der Lektüre sollte sich erste Projekte in Elasticsearch zeitnah umsetzen lassen.
+
+[sidebar]
+[.text-right]
+****
+[cols="2*"]
+|===
+.7+^.^| pass:[<a rel="nofollow" href="http://www.amazon.de/gp/product/3864902894/ref=as_li_tl?ie=UTF8&camp=1638&creative=6742&creativeASIN=3864902894&linkCode=as2&tag=danigryc-21"><img border="0" src="http://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=3864902894&Format=_SL160_&ID=AsinImage&MarketPlace=DE&ServiceVersion=20070822&WS=1&tag=danigryc-21" ></a><img src="http://ir-de.amazon-adsystem.com/e/ir?t=danigryc-21&l=as2&o=3&a=3864902894" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+]
+| *Autor:* Florian Hopf
+
+| *Titel:* Elasticsearch - Ein praktischer Einstieg
+
+| *Auflage:* 1. Auflage 2016
+
+| *Verlag:* dpunkt Verlag
+
+| *Umfang:* 239 Seiten
+
+| *Preis:* 32,90 Euro
+
+| *ISBN:* 978-3-86490-298-5
+
+|===
+****
+
+[.text-center]
+_Diese Rezension wird ebenfalls im Magazin Java Aktuell Ausgabe 02/2016 veröffentlicht._
