@@ -5,7 +5,7 @@ permalink: /teaching/
 = Teaching
 :icons: font
 
-From 2007 until 2010 I gave several courses about scientific working with different writing tools at Ruhr-University Bochum. Underneath you find certain informations about the two courses.
+From 2007 until 2010 I gave several courses about scientific working with different writing tools at Ruhr-University Bochum. Underneath you find certain informations about the two elearing courses.
 
 * Scientific working using Word and Powerpoint / Wissenschaftlich arbeiten mit Word und Powerpoint
 * Scientific working using LaTeX / Wissenschaftlich arbeiten mit LaTeX
