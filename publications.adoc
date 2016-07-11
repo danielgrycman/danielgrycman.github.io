@@ -10,7 +10,8 @@ permalink: /publications/
 * Baumann, Joachim: Vaadin - Der kompakte Einstieg für Java-Entwickler. Heidelberg: dpunkt Verlag 2015. In: Java aktuell, Ausgabe 03-2015 link:pdfs/03-2015-Java-aktuell.pdf[icon:file-pdf-o[]]
 * Uwe Vigenschow, unter Mitarbeit von Andrea Grass, Alexandra Augstin und Michael Hoffmann: APM - Agiles Projektmanagement. Heidelberg: dpunkt Verlag 2015. In: Java aktuell, Ausgabe 04-2015 link:pdfs/04-2015-Java-aktuell.pdf[icon:file-pdf-o[]]
 * Martin Geirhos: Entwurfsmuster - Das umfassende Handbuch. Bonn: Rheinwerk Verlag 2015. In: Java aktuell, Ausgabe 01-2016 link:pdfs/01-2016-Java-aktuell.pdf[icon:file-pdf-o[]]
-* Florian Hopf: Elasticsearch - Ein praktischer Einstieg. Heidelberg: dpunkt Verlag 2016. In: Java aktuell, Ausgabe 02-2016 (to be published)
+* Florian Hopf: Elasticsearch - Ein praktischer Einstieg. Heidelberg: dpunkt Verlag 2016. In: Java aktuell, Ausgabe 02-2016 icon:file-pdf-o[]
+* Christian Ullenboom: Java ist auch eine Insel: Rheinwerk Verlag 2016. In: Java aktuell, Ausgabe 03-2016 icon:file-pdf-o[]
 
 == Technical Reviewer
 * Stocker, Vicent Lee: Science Teaching with Moodle 2.0. Birmingham: Packt Publishing 2011.
