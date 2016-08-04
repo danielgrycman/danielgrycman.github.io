@@ -5,9 +5,14 @@ permalink: /about/
 = About
 
 == Experiences
-
 ****************************************************************************
-*May 2014 - October 2016 +
+*October 2016 +
+to be announced* +
+_IT Consultant_
+****************************************************************************
+&nbsp;
+****************************************************************************
+*May 2014 - September 2016 +
 Ferdinand Bilstein GmbH + Co. KG / Central Service Solutions, Ennepetal* +
 _Software Developer & Consultant +
 Concept and implementation of Dynamic Publishing / fully automated generation of PDF catalogues, development and concept of Information Supply Chain Management (ISCM), concept and implementation of Application Lifecycle Management (ALM) using Atlassian Stack (Jira, Confluence, Bitbucket Server and Bamboo), concept and implementation of Infrastructure As Code (Docker, Ansible and Vagrant)_
