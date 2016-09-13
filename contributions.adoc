@@ -7,8 +7,8 @@ permalink: /contributions/
 
 == MeetUps and Usergroups
 
-* member of the organisation team of JUG Essen
-* local organiser of Docker Meetup Bochum
+* member of the organisation team of http://www.jug-essen.de[JUG Essen]
+* local organiser of https://www.meetup.com/de-DE/Docker-Bochum[Docker Meetup Bochum]
 
 
 == Github Projects
