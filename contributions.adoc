@@ -13,4 +13,7 @@ permalink: /contributions/
 
 == Github Projects
 
-* http://github.com/danielgrycman/publisher[Fork of speedata publisher]
+* http://github.com/danielgrycman/agilepublishingplatform[Agile Publishing Platform]
+* http://github.com/danielgrycman/mit[Mini Issue Tracker]
+* http://github.com/danielgrycman/containerized-publisher[containerized-publisher]
+* http://github.com/danielgrycman/containerized-bamboo-agent[containerized-bamboo-agent]
