@@ -14,6 +14,7 @@ permalink: /contributions/
 == Github Projects
 
 * http://github.com/danielgrycman/agilepublishingplatform[Agile Publishing Platform]
-* http://github.com/danielgrycman/mit[Mini Issue Tracker]
 * http://github.com/danielgrycman/containerized-publisher[containerized-publisher]
 * http://github.com/danielgrycman/containerized-bamboo-agent[containerized-bamboo-agent]
+* https://github.com/jbake-org/jbake[JBake]
+* https://github.com/jbake-org/jbake-gradle-plugin[JBake Gradle Plugin]
