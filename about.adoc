@@ -8,7 +8,8 @@ permalink: /about/
 ****************************************************************************
 *October 2016 +
 codecentric, Solingen* +
-_Atlassian Solutions Consultant_
+_Agile Solutions Consultant_ +
+Atlassian Tools, Atlassian SDK, Application Lifecycle Management, Infrastructure as Code, Agile Documentation
 ****************************************************************************
 &nbsp;
 ****************************************************************************
