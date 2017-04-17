@@ -2,8 +2,10 @@ language: ruby
 rvm:
 - 2.2.0
 sudo: false
-before_script: .travis/before_script.sh
-script: bundle exec jekyll build && bundle exec rake deploy
+script: 
+- git config user.name "Daniel Grycman"
+- git config user.email "danielgrycman@icloud.com"
+- bundle exec jekyll build && bundle exec rake deploy
 env:
   global:
     secure: hU6U14iWNxfopskrGPgO6WIMXQq8otyKU0i/DsGstB8S1pj+52JU+8GJ/QWjdSiTOxGhlWXL9FdhSPVWYxKE3PJmGDyRx5OmK50znuIDbbwcpBhboJRvZA0aD8dTAv+r3WmxK95rMn4OF9IB6ka2ST7Aw9U0dssMl9HeQH9YIwCZcUxzmKoElFw1Gg4A6a1vSUKyZbiDEkgzPCv8mm0pMjqMAfiearBDd/Sl9WLKN1NLdD4M9QGwUGM5nCP454UWGZZdAPU3fBrPWTpnYgrhGp7gxS6uvqDsRB+l0zlUEH3DY3lAKa6X2LBvQEHtetzckJhtYyXEGtk0AXoP4FjGOlkn4Dkvu1s2AAjvP/Mr3XNxOeM6AkLQmgDkhEeJu6usl1+KYxAar7kFo45HoRSWlcuftwllsWGvALrjxAogS/3Z4sVDysZxPVY8mSoBsooegkyeuEhFVuZqX/9cV/exRhwQlPLU0w4xGde93J+YP7zLHbQIip5xvuwXa57l2wihNodwoNXky+//e89ybqLaKjquBcMMvNhbCwhE2kymLKeRmPs1wgrwDUlL4vfjubKg/VXAvP6686lE41Mn0jBNye5/JOmfC9PImsb4GUIDZaPjqGHB7KHXGix0m0U09UmmEx+quxjw/uHPUGt3kUq0M5kujpc/VlLd6RB/qKIgoUs=
