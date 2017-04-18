@@ -9,7 +9,7 @@ permalink: /about/
 *October 2016 +
 codecentric, Solingen* +
 _Agile Solutions Consultant_ +
-Agile, Application Lifecycle Management, Atlassian, Continuous Delivery, Continuous Deployment, Continuous Documentation, Continuous Integration, Documentation As Code, DocOps, Github Enterprise, Infrastructure As Code, Integration, Tools, SSO, Xebialabs
+_Agile, Application Lifecycle Management, Atlassian, Continuous Delivery, Continuous Deployment, Continuous Documentation, Continuous Integration, Documentation As Code, DocOps, Github Enterprise, Infrastructure As Code, Integration, Tools, SSO, Xebialabs_
 ****************************************************************************
 &nbsp;
 ****************************************************************************

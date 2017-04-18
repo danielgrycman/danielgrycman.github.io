@@ -8,6 +8,7 @@ permalink: /contributions/
 == MeetUps and Usergroups
 
 * member of the organisation team of http://www.jug-essen.de[JUG Essen]
+* co-organisation Hackergarten Dortmund @codecentric
 
 == Github Projects
 
